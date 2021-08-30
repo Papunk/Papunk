@@ -11,5 +11,5 @@ Contact me at:
 
 Currently interested in:
 - iOS app development
-- automation
 - robotics
+- automation
