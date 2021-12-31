@@ -11,6 +11,6 @@ Contact me at:
 - pedrocpt2001@gmail.com
 
 Currently interested in:
-- iOS app development
+- mobile app development
 - robotics
 - automation
