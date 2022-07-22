@@ -12,5 +12,6 @@ Contact me at:
 
 Currently interested in:
 - mobile app development
+- data engineering
 - robotics
 - automation
