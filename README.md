@@ -3,7 +3,7 @@
 
 UPR - Mayagüez Student
 
-Software Engineering Bachelor Degree - 3rd year
+Software Engineering Bachelor Degree - 4rd year
 
 Contact me at:
 - pedro.pagan6@upr.edu
