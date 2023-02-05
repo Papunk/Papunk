@@ -1,9 +1,6 @@
-# Papunk
-### Pedro C. Pagán Torres
-
-UPR - Mayagüez Student
-
-Software Engineering Bachelor Degree - 4rd year
+# Pedro C. Pagán Torres
+#### University of Puerto Rico - Mayagüez
+#### Software Engineering Bachelor Degree - 4th year
 
 Contact me at:
 - pedro.pagan6@upr.edu
